@@ -63,23 +63,23 @@
 }
 
 .slide1 {
-  background-image: url("/mems/1.jpg");
+  background-image: url("./mems/1.jpg");
   border-radius: 15px;
 }
 .slide2 {
-  background-image: url("/mems/2.jpg");
+  background-image: url("./mems/2.jpg");
   border-radius: 15px;
 }
 .slide3 {
-  background-image: url("/mems/3.jpg");
+  background-image: url("./mems/3.jpg");
   border-radius: 15px;
 }
 .slide4 {
-  background-image: url("/mems/4.jpg");
+  background-image: url("./mems/4.jpg");
   border-radius: 15px;
 }
 .slide5 {
-  background-image: url("/mems/5.jpg");
+  background-image: url("./mems/5.jpg");
   border-radius: 15px;
 }
 .slider__content .controls {
